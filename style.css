@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+button{
+    height: 50;
+    width: 100;
+    color: blue;
+    font-size: large;
+}
+canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
